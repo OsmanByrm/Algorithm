@@ -108,7 +108,7 @@ python fibonacci.py
 - ✅ Real-world applications
 - ✅ Visual output showing how algorithms work
 
-## 🌟 Tips for Learning
+## 🌟 Tips for Learning 
 
 1. **Run the code** - Don't just read, execute!
 2. **Modify examples** - Try different numbers/lists
